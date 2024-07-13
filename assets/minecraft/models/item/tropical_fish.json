@@ -1,0 +1,11 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+        "layer0": "item/tropical_fish"
+  },
+  "overrides": [
+    {"predicate": { "custom_model_data": 543}, "model": "ld:item/cocoa"},
+    {"predicate": { "custom_model_data": 548}, "model": "ld:item/vanilla"},
+    {"predicate": { "custom_model_data": 552}, "model": "ld:item/popsicle"}
+  ]
+}

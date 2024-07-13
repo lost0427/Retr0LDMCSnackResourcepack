@@ -1,0 +1,8 @@
+
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "ld:item/sweet_berries_ice_cream",
+    "layer1": "ld:item/sweet_berries_ice_cream"
+  }
+}

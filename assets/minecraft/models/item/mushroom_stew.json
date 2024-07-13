@@ -1,0 +1,16 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+        "layer0": "item/mushroom_stew"
+  },
+  "overrides": [
+    {"predicate": { "custom_model_data": 541}, "model": "ld:item/neapolitan_ice_cream"},
+    {"predicate": { "custom_model_data": 542}, "model": "ld:item/moutai_ice_cream"},
+    {"predicate": { "custom_model_data": 544}, "model": "ld:item/cocoa_ice_cream"},
+    {"predicate": { "custom_model_data": 546}, "model": "ld:item/vanilla_ice_cream"},
+    {"predicate": { "custom_model_data": 549}, "model": "ld:item/melon_slice_ice_cream"},
+    {"predicate": { "custom_model_data": 550}, "model": "ld:item/sweet_berries_ice_cream"},
+    {"predicate": { "custom_model_data": 551}, "model": "ld:item/strawberry_ice_cream"},
+    {"predicate": { "custom_model_data": 556}, "model": "ld:item/ice_cream"}
+  ]
+}
