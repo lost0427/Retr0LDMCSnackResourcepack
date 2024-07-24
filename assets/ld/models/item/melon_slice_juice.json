@@ -1,6 +1,6 @@
 
 {
-  "parent": "item/handheld_rod",
+  "parent": "item/generated",
   "textures": {
     "layer0": "ld:item/melon_slice_juice",
     "layer1": "ld:item/melon_slice_juice"
